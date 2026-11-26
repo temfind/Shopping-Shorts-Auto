@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "ep03",
+      "date": "2026-11-27",
+      "title": "버튼 누르면 춤추는 산타 선인장 정체🎅",
+      "keyword": "선인장",
+      "thumb": "img/ep03.jpg",
+      "reel": "",
+      "products": [
+        {
+          "name": "말하는 춤추는 선인장 크리스마스 에디션",
+          "url": "https://influencers.coupang.com/s/temfind",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ep02",
+      "date": "2026-11-26",
+      "title": "크리스마스 준비 끝! 우리 집에 꼬마 산타가 왔어요🎅",
+      "keyword": "산타",
+      "thumb": "img/ep02.jpg",
+      "reel": "",
+      "products": [
+        {
+          "name": "베베쥬 강아지 산타 케이프",
+          "url": "https://influencers.coupang.com/s/temfind",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ep01",
+      "date": "2026-11-26",
+      "title": "산책 못 나가는 날엔 이거 하나, 우리 집 댕댕이 집에서 더 신났어요🐶",
+      "keyword": "공",
+      "thumb": "img/ep01.jpg",
+      "reel": "https://www.instagram.com/reel/DgMK-fvRJ3s/",
+      "products": [
+        {
+          "name": "움직이는 강아지 장난감 자동 공",
+          "url": "https://influencers.coupang.com/s/temfind",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
