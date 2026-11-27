@@ -1,12 +1,27 @@
 {
   "items": [
     {
+      "id": "ep04",
+      "date": "2026-11-27",
+      "title": "내 말 따라 하는데 목소리 왜 이래ㅋㅋ",
+      "keyword": "앵무새",
+      "thumb": "img/ep04.jpg",
+      "reel": "",
+      "products": [
+        {
+          "name": "따라쟁이 말하는 앵무새 인형",
+          "url": "https://influencers.coupang.com/s/temfind",
+          "note": ""
+        }
+      ]
+    },
+    {
       "id": "ep03",
       "date": "2026-11-27",
       "title": "버튼 누르면 춤추는 산타 선인장 정체🎅",
       "keyword": "선인장",
       "thumb": "img/ep03.jpg",
-      "reel": "",
+      "reel": "https://www.instagram.com/reel/DgOWD8tRvJ7/",
       "products": [
         {
           "name": "말하는 춤추는 선인장 크리스마스 에디션",
@@ -21,7 +36,7 @@
       "title": "크리스마스 준비 끝! 우리 집에 꼬마 산타가 왔어요🎅",
       "keyword": "산타",
       "thumb": "img/ep02.jpg",
-      "reel": "",
+      "reel": "https://www.instagram.com/reel/DgNDqktxjBj/",
       "products": [
         {
           "name": "베베쥬 강아지 산타 케이프",
